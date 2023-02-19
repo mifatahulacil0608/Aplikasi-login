@@ -6,3 +6,4 @@ Squash 5
 Squash 6
 s7
 s0
+new
